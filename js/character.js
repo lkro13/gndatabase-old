@@ -1,51 +1,51 @@
 function characterimg(name){
   switch(name){
-case "albedo":return "/img/character/head/Albedo.png";
-case "aloy":return "/img/character/head/Aloy.png";
-case "amber":return "/img/character/head/Amber.png";
-case "ayaka":return "/img/character/head/Ayaka.png";
-case "barbara":return "/img/character/head/Barbara.png";
-case "beidou":return "/img/character/head/Beidou.png";
-case "bennett":return "/img/character/head/Bennett.png";
-case "chongyun":return "/img/character/head/Chongyun.png";
-case "diluc":return "/img/character/head/Diluc.png";
-case "diona":return "/img/character/head/Diona.png";
-case "eula":return "/img/character/head/Eula.png";
-case "fischl":return "/img/character/head/Fischl.png";
-case "ganyu":return "/img/character/head/Ganyu.png";
-case "hu tao":return "/img/character/head/Hu Tao.png";
-case "jean":return "/img/character/head/Jean.png";
-case "kaeya":return "/img/character/head/Kaeya.png";
-case "kazuha":return "/img/character/head/Kazuha.png";
-case "keqing":return "/img/character/head/Keqing.png";
-case "klee":return "/img/character/head/Klee.png";
-case "kokomi":return "/img/character/head/Kokomi.png";
-case "lisa":return "/img/character/head/Lisa.png";
-case "mona":return "/img/character/head/Mona.png";
-case "ningguang":return "/img/character/head/Ningguang.png";
-case "noelle":return "/img/character/head/Noelle.png";
-case "qiqi":return "/img/character/head/Qiqi.png";
-case "raiden":return "/img/character/head/Raiden.png";
-case "razor":return "/img/character/head/Razor.png";
-case "rosaria":return "/img/character/head/Rosaria.png";
-case "sara":return "/img/character/head/Sara.png";
-case "sayu":return "/img/character/head/Sayu.png";
-case "sucrose":return "/img/character/head/Sucrose.png";
-case "tartaglia":return "/img/character/head/Tartaglia.png";
-case "thoma":return "/img/character/head/Thoma.png";
-case "traveler":return "/img/character/head/Traveler.png";
-case "venti":return "/img/character/head/Venti.png";
-case "xiangling":return "/img/character/head/Xiangling.png";
-case "xiao":return "/img/character/head/Xiao.png";
-case "xingqiu":return "/img/character/head/Xingqiu.png";
-case "xinyan":return "/img/character/head/Xinyan.png";
-case "yanfei":return "/img/character/head/Yanfei.png";
-case "yoimiya":return "/img/character/head/Yoimiya.png";
-case "zhongli":return "/img/character/head/Zhongli.png";
-case "gorou":return "/img/character/head/Gorou.png";
-case "itto":return "/img/character/head/AratakiItto.png";
-case "shenhe": return "/img/character/head/Shenhe.png";
-case "yunjin": return "/img/character/head/YunJin.png";
+case "albedo":return "https://lkro13.github.io/gndatabase-old/img/character/head/Albedo.png";
+case "aloy":return "https://lkro13.github.io/gndatabase-old/img/character/head/Aloy.png";
+case "amber":return "https://lkro13.github.io/gndatabase-old/img/character/head/Amber.png";
+case "ayaka":return "https://lkro13.github.io/gndatabase-old/img/character/head/Ayaka.png";
+case "barbara":return "https://lkro13.github.io/gndatabase-old/img/character/head/Barbara.png";
+case "beidou":return "https://lkro13.github.io/gndatabase-old/img/character/head/Beidou.png";
+case "bennett":return "https://lkro13.github.io/gndatabase-old/img/character/head/Bennett.png";
+case "chongyun":return "https://lkro13.github.io/gndatabase-old/img/character/head/Chongyun.png";
+case "diluc":return "https://lkro13.github.io/gndatabase-old/img/character/head/Diluc.png";
+case "diona":return "https://lkro13.github.io/gndatabase-old/img/character/head/Diona.png";
+case "eula":return "https://lkro13.github.io/gndatabase-old/img/character/head/Eula.png";
+case "fischl":return "https://lkro13.github.io/gndatabase-old/img/character/head/Fischl.png";
+case "ganyu":return "https://lkro13.github.io/gndatabase-old/img/character/head/Ganyu.png";
+case "hu tao":return "https://lkro13.github.io/gndatabase-old/img/character/head/Hu Tao.png";
+case "jean":return "https://lkro13.github.io/gndatabase-old/img/character/head/Jean.png";
+case "kaeya":return "https://lkro13.github.io/gndatabase-old/img/character/head/Kaeya.png";
+case "kazuha":return "https://lkro13.github.io/gndatabase-old/img/character/head/Kazuha.png";
+case "keqing":return "https://lkro13.github.io/gndatabase-old/img/character/head/Keqing.png";
+case "klee":return "https://lkro13.github.io/gndatabase-old/img/character/head/Klee.png";
+case "kokomi":return "https://lkro13.github.io/gndatabase-old/img/character/head/Kokomi.png";
+case "lisa":return "https://lkro13.github.io/gndatabase-old/img/character/head/Lisa.png";
+case "mona":return "https://lkro13.github.io/gndatabase-old/img/character/head/Mona.png";
+case "ningguang":return "https://lkro13.github.io/gndatabase-old/img/character/head/Ningguang.png";
+case "noelle":return "https://lkro13.github.io/gndatabase-old/img/character/head/Noelle.png";
+case "qiqi":return "https://lkro13.github.io/gndatabase-old/img/character/head/Qiqi.png";
+case "raiden":return "https://lkro13.github.io/gndatabase-old/img/character/head/Raiden.png";
+case "razor":return "https://lkro13.github.io/gndatabase-old/img/character/head/Razor.png";
+case "rosaria":return "https://lkro13.github.io/gndatabase-old/img/character/head/Rosaria.png";
+case "sara":return "https://lkro13.github.io/gndatabase-old/img/character/head/Sara.png";
+case "sayu":return "https://lkro13.github.io/gndatabase-old/img/character/head/Sayu.png";
+case "sucrose":return "https://lkro13.github.io/gndatabase-old/img/character/head/Sucrose.png";
+case "tartaglia":return "https://lkro13.github.io/gndatabase-old/img/character/head/Tartaglia.png";
+case "thoma":return "https://lkro13.github.io/gndatabase-old/img/character/head/Thoma.png";
+case "traveler":return "https://lkro13.github.io/gndatabase-old/img/character/head/Traveler.png";
+case "venti":return "https://lkro13.github.io/gndatabase-old/img/character/head/Venti.png";
+case "xiangling":return "https://lkro13.github.io/gndatabase-old/img/character/head/Xiangling.png";
+case "xiao":return "https://lkro13.github.io/gndatabase-old/img/character/head/Xiao.png";
+case "xingqiu":return "https://lkro13.github.io/gndatabase-old/img/character/head/Xingqiu.png";
+case "xinyan":return "https://lkro13.github.io/gndatabase-old/img/character/head/Xinyan.png";
+case "yanfei":return "https://lkro13.github.io/gndatabase-old/img/character/head/Yanfei.png";
+case "yoimiya":return "https://lkro13.github.io/gndatabase-old/img/character/head/Yoimiya.png";
+case "zhongli":return "https://lkro13.github.io/gndatabase-old/img/character/head/Zhongli.png";
+case "gorou":return "https://lkro13.github.io/gndatabase-old/img/character/head/Gorou.png";
+case "itto":return "https://lkro13.github.io/gndatabase-old/img/character/head/AratakiItto.png";
+case "shenhe": return "https://lkro13.github.io/gndatabase-old/img/character/head/Shenhe.png";
+case "yunjin": return "https://lkro13.github.io/gndatabase-old/img/character/head/YunJin.png";
   }
 }
 
@@ -111,7 +111,7 @@ function characterimage(name){
     image.style.width="120px"
     image.style.margin="5px 0px 5px 0px"
     image.id=name+days[step]
-    image.onclick = function(){location.href = "/character/"+name+".html#talent"}
+    image.onclick = function(){location.href = "character/"+name+".html#talent"}
     image.classList.add("w3-hover-opacity")
     day.appendChild(image)
   }
@@ -121,7 +121,7 @@ function characterimage(name){
     image.style.width="120px"
     image.style.margin="5px 0px 5px 0px"
     image.id=name+"sunday"
-    image.onclick = function(){location.href = "/character/"+name+".html#talent"}
+    image.onclick = function(){location.href = "character/"+name+".html#talent"}
     image.classList.add("w3-hover-opacity")
     day.appendChild(image)
 }
@@ -146,7 +146,7 @@ function characterimagev(name,element){
   image.src = imagefile
   image.style.width="120px"
   image.style.margin="5px 0px 5px 0px"
-  image.onclick = function(){location.href = "/character/"+name+".html"}
+  image.onclick = function(){location.href = "character/"+name+".html"}
   image.classList.add("w3-hover-opacity")
   parent.appendChild(image)
 }

@@ -247,7 +247,7 @@ function generate(){
   if(check.checked == true) exporti = "import=0;viewonly=1"
   else exporti = "import=1;viewonly=0"
   var texout = document.getElementById("exporto")
-  var exporttext = "https://gndatabase.ml/import.html?" + exporti + ";name=" + temname + ";cha" + concharacter + "wea" + conweapon
+  var exporttext = "https://lkro13.github.io/gndatabase-old//import.html?" + exporti + ";name=" + temname + ";cha" + concharacter + "wea" + conweapon
   texout.value=encodeURI(exporttext) 
 }
 
@@ -275,6 +275,6 @@ function generate_link(){
   }
   var temname = "Team1"
   var exporti = "import=0;viewonly=1"
-  var exporttext = "https://gndatabase.ml/import.html?" + exporti + ";name=" + temname + ";cha" + concharacter + "wea" + conweapon
+  var exporttext = "https://lkro13.github.io/gndatabase-old//import.html?" + exporti + ";name=" + temname + ";cha" + concharacter + "wea" + conweapon
   return encodeURI(exporttext) 
 }
